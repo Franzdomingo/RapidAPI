@@ -51,4 +51,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+[MIT License](LICENSE)
